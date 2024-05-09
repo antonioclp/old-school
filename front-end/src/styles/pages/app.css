@@ -1,6 +1,6 @@
 .m-app {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   align-items: center;
   width: 100%;
 }
@@ -11,7 +11,8 @@
   border-collapse: collapse;
 }
 
-.m-app-table th, .m-app-table td {
+.m-app-table th,
+.m-app-table td {
   padding: 8px;
   text-align: center;
   border: 1px solid rgb(36, 54, 174);
