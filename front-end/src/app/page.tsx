@@ -6,7 +6,7 @@ import { Student } from "@/interfaces";
 import "@/styles/pages/app.css";
 
 /**
- * @Development branch.
+ * @Development branch!
  * Front-end @version 0.1
  */
 export default function Home() {
